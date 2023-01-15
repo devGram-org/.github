@@ -10,6 +10,6 @@
 </p>
 
 <p align="center">
-    <h2>Want to become a CS Engineer without going to college?</h2>
-    <p>You have arrived at correct page</p>
+    <h2 align="center">Want to become a CS Engineer without going to college?</h2>
+    <p align="center">You have arrived at correct page</p>
 </p>
